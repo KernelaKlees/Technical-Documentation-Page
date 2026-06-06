@@ -13,9 +13,6 @@ The page includes a clean layout, sidebar navigation, and placeholder sections t
 Project completed for practice.  
 Content can be improved or expanded in the future.
 
-## 🚀 Live Demo
-(Add your GitHub Pages link here)
-
 ## 🛠️ Technologies
 - HTML  
 - CSS  
